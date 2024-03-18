@@ -1,3 +1,3 @@
-git clone https://github.com/CRAZY-ESX/ANON-JAVA-DDOS.git
-cd ANON-JAVA-DDOS
-java 4N0N.java
+https://github.com/dilaxploit/dila-ddos/
+cd dila.js
+js dila.js
